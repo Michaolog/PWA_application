@@ -7,7 +7,7 @@
     "name" : "Przewodnik po USA",
     "short_name" : "pwaAPP",
     "description" : "Zaawansowane technologie internetowe - projekt PWA",
-    "orientatnion": "portret",
+    "orientatnion": "portrait",
     "icons":[
         {
             "src":"./photos/icon.png",
